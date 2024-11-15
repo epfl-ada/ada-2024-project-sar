@@ -44,7 +44,13 @@ There are several alternative approaches we can take to better understand the re
 One potential approach is recursive feature elimination (e.g., using linear regression or random forest), which recursively removes the least important features based on model performance. Additionally, decision tree-based models, such as Random Forest, can provide feature importance scores, which can be used to identify the most influential predictors.
 
 **Organization within the team:**
+Elsa: Handling text data
+Mahdi: Decision tree-based models 
+Maria: Recursive elimination
+Alvaro: Propensity score and exploring the betchdel in details
+Myriam: Additional tropes data analysis
 
+Additional internal milestone : start the website site at least before the 4th od December
 
 **Questions for TAs:**
 1. What is the best method to predict the most successful female characters for a movie?
