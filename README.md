@@ -8,15 +8,14 @@ Building on these insights, we will conduct a data analysis to identify the opti
 This research will show gender dynamics within the film industry and provides practical recommendations for casting and storytelling that resonate with audiences and contribute to a more inclusive cinematic future.
 
 **Research questions:**
-1. What are the historical and contemporary trends in female representation across various genres and decades?
-2. How do the roles assigned to female characters compare to male characters in terms of narrative importance and screen time?
-3. How does the Bechdel Test score evolve over time, and what factors contribute to films achieving higher scores?
-4. Are female characters increasingly portrayed in roles that go beyond traditional stereotypes, and how does this affect audience reception?
-5. What are the optimal attributes (age, height, ethnicity, character type) of a female lead to maximize box office revenue and critical ratings?
-6. What is the correlation between achieving a Bechdel Test score of 3 and the financial and critical success of a film?
-How has the role of women in the film industry evolved over the years?
-What is the current state of women's representation in the film industry?
-Are women poised to play a more significant role in the future of the film industry?
+1. How has the role of women in the film industry evolved over the years?
+2. What is the current state of women's representation in the film industry?
+3. How do the roles assigned to female characters compare to male characters in terms of narrative importance ?
+4. How does the Bechdel Test score evolve over time, and what factors contribute to films achieving higher scores?
+5. Are female characters increasingly portrayed in roles that go beyond traditional stereotypes, and how does this affect audience reception?
+6. What are the optimal attributes (age, height, ethnicity, character type) of a female lead to maximize box office revenue and critical ratings?
+7. What is the correlation between achieving a Bechdel Test score of 3 and the financial and critical success of a film?
+
 
 **Proposed additional datasets:**
 1. IMDB Ratings
