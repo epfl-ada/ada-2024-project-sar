@@ -46,4 +46,7 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 **Organization within the team:**
 
 **Questions for TAs:**
-How to find a good method to predict the best women for the success of the movie? Since the correlation for some factors are too low, is there another way to deduce our predictions 
+1. What is the best method to predict the most successful female characters for a movie?
+2. Given that the correlation for certain factors is low, are there alternative approaches we can use to improve our predictions?
+3. How do you suggest handling missing or incomplete data, especially with categorical features like ethnicity or trope types?
+4. What additional features or variables might be valuable to include in the model to predict the success of a female character ? 
