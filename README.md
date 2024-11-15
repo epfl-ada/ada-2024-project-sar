@@ -53,7 +53,7 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 4. What additional features or variables might be valuable to include in the model to predict the success of a female character ?
 
 ## How to use the library
-
+```text
 
 ├── data                        <- All the data we have used for our analysis
 │
