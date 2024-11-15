@@ -1,5 +1,5 @@
 
-**Title: Left in the shadows: Women’s Fight for Their Share of the Spotlight**
+## Left in the shadows: Women’s Fight for Their Share of the Spotlight
 
 **Abstract:**
 
@@ -35,12 +35,6 @@ Features include posters, backdrops, budget, revenue, release dates, languages, 
 - **Regression analysis:** Build a predictive model to map actor attributes (age, height, ethnicity, character type) and film characteristics (budget, genre, release year) to success metrics like revenue and ratings. To explore the relationship between Bechdel test scores and other variables in the dataset, we primarily conducted linear regression analyses to identify potential patterns
 - **Bechdel test analysis:** Evaluate the progression of female representation quality based on the depth of on-screen interactions.
 
-## How to use the library
-data repository:
-test repository :
-results.ipynd
-
-
 **Proposed timeline:**
 
 For Milestone 3, we plan to apply techniques from the "Handling Text Data" lectures. This will involve analyzing movie summaries to identify lexical fields associated with higher or lower Bechdel test scores, uncovering the language patterns linked to gender representation.
@@ -55,4 +49,11 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 1. What is the best method to predict the most successful female characters for a movie?
 2. Given that the correlation for certain factors is low, are there alternative approaches we can use to improve our predictions?
 3. How do you suggest handling missing or incomplete data, especially with categorical features like ethnicity or trope types?
-4. What additional features or variables might be valuable to include in the model to predict the success of a female character ? 
+4. What additional features or variables might be valuable to include in the model to predict the success of a female character ?
+
+## How to use the library
+data repository:
+test repository :
+results.ipynd
+
+
