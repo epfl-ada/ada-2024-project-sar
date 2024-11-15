@@ -1,5 +1,3 @@
-Help me improving my README:
-
 **Title:**
 
 **Abstract:**
@@ -31,4 +29,3 @@ or lower Bechdel test scores, uncovering the language patterns linked to gender 
 
 **Questions for TAs:**
 
-(don't add anything on the empty parts)
