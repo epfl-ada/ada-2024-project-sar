@@ -2,6 +2,7 @@
 **Title:**
 
 **Abstract:**
+
 We begin by analyzing the general position of women in cinema, focusing on trends in female representation. This initial analysis highlights industry disparities and progress, setting the stage for deeper exploration. Using tools like the Bechdel Test and trend analysis, we will assess the depth of female roles across genres and decades, offering insights into gender's cultural implications in film. Based on these insights, we will analyze factors such as age, height, ethnicity, and character type to identify the characteristics of a successful female lead, measured by box office revenue and critics. Our goal is to craft recommendations that maximize success while achieving a Bechdel Test score of 3. Ultimately, we aim to determine how specific female character types can enhance both commercial success and narrative quality, promoting gender inclusivity. This research will provide practical recommendations for casting and storytelling, contributing to a more inclusive cinematic future.
 
 **Research questions:**
