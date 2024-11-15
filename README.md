@@ -54,11 +54,18 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 
 ## How to use the library
 
-- data repository:
-  All the data we have used for our analysis
-- test repository:
-  Here we tested some model on some sample.
-- results.ipynd
-  All the valuable results we have found to answer our main research questions 
 
+├── data                        <- All the data we have used for our analysis
+│
+├── src                         <- Source code
+│   ├── Data_cleaning.ipynb     <- Code used for cleaning the data before usage in results.ipynb
+│   ├── Data_merged.ipynb       <- Code used for merging the datasets
+│
+├── tests                       <- Tests not included in the results
+│
+├── results.ipynb               <- All the valuable results we have found to answer our main research questions
+│
+├── .gitignore                  <- List of files ignored by git
+├── pip_requirements.txt        <- File for installing python dependencies
+└── README.md
 
