@@ -2,6 +2,7 @@
 **Title:**
 
 **Abstract:**
+
 We begin by examining the general position of women in cinema, analyzing historical and contemporary trends in female representation. This foundational analysis highlights the disparities and progress in the industry, setting the stage for deeper exploration. Through tools like the Bechdel Test and trend analysis, we will evaluate the depth and importance of female roles across genres and decades, offering insights into the broader cultural implications of gender in film. 
 Building on these insights, we will conduct a comprehensive data analysis to identify the optimal characteristics of a female lead—such as age, height, ethnicity, and character type—that contribute to a movie's success in terms of box office revenue and critical acclaim. Taking these factors into account, we aim to craft recommendations that not only maximize film success but also achieve a Bechdel Test score of 3. By the end of the project, our goal is to determine how incorporating certain types of female characters can elevate both the commercial and narrative quality of films, while promoting gender inclusivity.
 This research sheds light on the gender dynamics within the film industry and provides practical recommendations for casting and storytelling that resonate with audiences and contribute to a more inclusive cinematic future.
@@ -32,6 +33,7 @@ The next step involves performing propensity score matching to determine which v
 
 For Part 3, we plan to apply techniques from the "Handling Text Data" lectures. This will involve analyzing movie summaries to identify lexical fields associated with higher 
 or lower Bechdel test scores, uncovering the language patterns linked to gender representation.
+
 - **Data collection:** Gather data on movies, including box office revenue, critical ratings, budgets, genres, release years, and attributes of lead actors (age, height, ethnicity, character type). Collect Bechdel Test scores for films across different time periods and genres to evaluate the depth of female representation.
 - **Trend analysis:** Perform descriptive analysis to understand general trends in female representation across genres and decades. Analyze correlations between Bechdel Test scores, box office revenue, critical ratings, and other success metrics.
 - **Regression analysis:** Build a predictive model to map actor attributes (age, height, ethnicity, character type) and film characteristics (budget, genre, release year) to success metrics like revenue and ratings.
