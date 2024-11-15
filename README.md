@@ -45,6 +45,7 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 
 **Organization within the team:**
 
+
 **Questions for TAs:**
 1. What is the best method to predict the most successful female characters for a movie?
 2. Given that the correlation for certain factors is low, are there alternative approaches we can use to improve our predictions?
@@ -52,8 +53,12 @@ One potential approach is recursive feature elimination (e.g., using linear regr
 4. What additional features or variables might be valuable to include in the model to predict the success of a female character ?
 
 ## How to use the library
-data repository:
-test repository :
-results.ipynd
+
+- data repository:
+  All the data we have used for our analysis
+- test repository:
+  Here we tested some model on some sample.
+- results.ipynd
+  All the valuable results we have found to answer our main research questions 
 
 
