@@ -2,20 +2,18 @@
 **Title:**
 
 **Abstract:**
-
 We begin by examining the general position of women in cinema, analyzing the general trends in female representation. This first analysis highlights the disparities and progress in the industry, setting the stage for deeper exploration. Through tools like the Bechdel Test and trend analysis, we will evaluate the depth and importance of female roles across genres and decades, offering insights into the broader cultural implications of gender in film. 
 Building on these insights, we will conduct a data analysis to identify the optimal characteristics of a female lead such as age, height, ethnicity, and character type that contribute to a movie's success in terms of box office revenue and critical acclaim. Taking these factors into account, we aim to craft recommendations that not only maximize film success but also achieve a Bechdel Test score of 3. By the end of the project, our goal is to determine how incorporating certain types of female characters can elevate both the commercial and narrative quality of films, while promoting gender inclusivity.
 This research will show gender dynamics within the film industry and provides practical recommendations for casting and storytelling that resonate with audiences and contribute to a more inclusive cinematic future.
 
 **Research questions:**
 1. How has the role of women in the film industry evolved over the years?
-2. What is the current state of women's representation in the film industry?
-3. How do the roles assigned to female characters compare to male characters in terms of narrative importance ?
-4. How does the Bechdel Test score evolve over time, and what factors contribute to films achieving higher scores?
+2. How does the Bechdel Test score evolve over time, and what factors contribute to films achieving higher scores?
+4. What is the current state of women's representation in the film industry?
 5. Are female characters increasingly portrayed in roles that go beyond traditional stereotypes, and how does this affect audience reception?
-6. What are the optimal attributes (age, height, ethnicity, character type) of a female lead to maximize box office revenue and critical ratings?
-7. What is the correlation between achieving a Bechdel Test score of 3 and the financial and critical success of a film?
-
+7. What are the optimal attributes (age, height, ethnicity, character type) of a female lead to maximize box office revenue and critical ratings?
+8. What is the correlation between achieving a Bechdel Test score of 3 and the financial and critical success of a film?
+9. Is it really possible to predict the actress that could lead to the best movie succes while passing the Bechdel Test with the best score ? 
 
 **Proposed additional datasets:**
 1. IMDB Ratings
@@ -26,7 +24,8 @@ This research will show gender dynamics within the film industry and provides pr
   This dataset contains Bechdel test scores, which provide insight into the interactions between women in films. By integrating these scores with other variables from the CMU movies dataset,
   we can analyze correlations between the Bechdel test results and other factors like ratings, revenue, and genre.
 
-3. Additional TVTropes entries for the movie
+3. 
+4. Additional TVTropes entries for the movie
    List of trope names ocurring in each movie.
    
 **Methods:**
