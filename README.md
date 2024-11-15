@@ -22,23 +22,25 @@ This research will show gender dynamics within the film industry and provides pr
   This dataset was chosen to incorporate the ratings films received, which will be linked to revenue data (already available in the CMU movies database) to create a variable
   measuring a film’s success.
 
-3. Bechdel Test Results
+2. Bechdel Test Results
   This dataset contains Bechdel test scores, which provide insight into the interactions between women in films. By integrating these scores with other variables from the CMU movies dataset,
   we can analyze correlations between the Bechdel test results and other factors like ratings, revenue, and genre.
 
+3. Additional TVTropes entries for the movie
+   List of trope names ocurring in each movie.
+   
 **Methods:**
-To explore the relationship between Bechdel test scores and other variables in the dataset, we primarily conducted linear regression analyses to identify potential patterns. 
-The next step involves performing propensity score matching to determine which variables act as confounders in these relationships.
-
-For Part 3, we plan to apply techniques from the "Handling Text Data" lectures. This will involve analyzing movie summaries to identify lexical fields associated with higher 
-or lower Bechdel test scores, uncovering the language patterns linked to gender representation.
 
 - **Data collection:** Gather data on movies, including box office revenue, critical ratings, budgets, genres, release years, and attributes of lead actors (age, height, ethnicity, character type). Collect Bechdel Test scores for films across different time periods and genres to evaluate the depth of female representation.
 - **Trend analysis:** Perform descriptive analysis to understand general trends in female representation across genres and decades. Analyze correlations between Bechdel Test scores, box office revenue, critical ratings, and other success metrics.
-- **Regression analysis:** Build a predictive model to map actor attributes (age, height, ethnicity, character type) and film characteristics (budget, genre, release year) to success metrics like revenue and ratings.
+- **Regression analysis:** Build a predictive model to map actor attributes (age, height, ethnicity, character type) and film characteristics (budget, genre, release year) to success metrics like revenue and ratings. To explore the relationship between Bechdel test scores and other variables in the dataset, we primarily conducted linear regression analyses to identify potential patterns
 - **Bechdel test analysis:** Evaluate the progression of female representation quality based on the depth of on-screen interactions.
 - **Comparative Analysis:** Examine male and female representation in similar roles to uncover hidden disparities.
 
+The next step involves performing propensity score matching to determine which variables act as confounders in these relationships.
+For milestone 3, we plan to apply techniques from the "Handling Text Data" lectures. This will involve analyzing movie summaries to identify lexical fields associated with higher 
+or lower Bechdel test scores, uncovering the language patterns linked to gender representation.
+ 
 **Proposed timeline:**
 
 **Organization within the team:**
