@@ -22,10 +22,13 @@ This research will show gender dynamics within the film industry and provides pr
   This dataset was chosen to incorporate the ratings films received, which will be linked to revenue data (already available in the CMU movies database) to create a variable
   measuring a film’s success.
 
-3. Bechdel Test Results
+2. Bechdel Test Results
   This dataset contains Bechdel test scores, which provide insight into the interactions between women in films. By integrating these scores with other variables from the CMU movies dataset,
   we can analyze correlations between the Bechdel test results and other factors like ratings, revenue, and genre.
 
+3. Additional TVTropes entries for the movie
+   List of trope names ocurring in each movie.
+   
 **Methods:**
 To explore the relationship between Bechdel test scores and other variables in the dataset, we primarily conducted linear regression analyses to identify potential patterns. 
 The next step involves performing propensity score matching to determine which variables act as confounders in these relationships.
