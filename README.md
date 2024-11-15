@@ -2,6 +2,7 @@
 **Title:**
 
 **Abstract:**
+
 We begin by examining the general position of women in cinema, analyzing the general trends in female representation. This first analysis highlights the disparities and progress in the industry, setting the stage for deeper exploration. Through tools like the Bechdel Test and trend analysis, we will evaluate the depth and importance of female roles across genres and decades, offering insights into the broader cultural implications of gender in film. 
 Building on these insights, we will conduct a data analysis to identify the optimal characteristics of a female lead such as age, height, ethnicity, and character type that contribute to a movie's success in terms of box office revenue and critical acclaim. Taking these factors into account, we aim to craft recommendations that not only maximize film success but also achieve a Bechdel Test score of 3. By the end of the project, our goal is to determine how incorporating certain types of female characters can elevate both the commercial and narrative quality of films, while promoting gender inclusivity.
 This research will show gender dynamics within the film industry and provides practical recommendations for casting and storytelling that resonate with audiences and contribute to a more inclusive cinematic future.
@@ -17,8 +18,7 @@ This research will show gender dynamics within the film industry and provides pr
 
 **Proposed additional datasets:**
 1. IMDB Ratings
-  This dataset was chosen to incorporate the ratings films received, which will be linked to revenue data (already available in the CMU movies database) to create a variable
-  measuring a film’s success.
+  This dataset was chosen to incorporate the ratings films received, which will be linked to revenue data (already available in the CMU movies database) to create a variable measuring a film’s success.
 
 2. Bechdel Test Results
   This dataset contains Bechdel test scores, which provide insight into the interactions between women in films. By integrating these scores with other variables from the CMU movies dataset, we can analyze correlations between the Bechdel test results and other factors like ratings, revenue, and genre.
