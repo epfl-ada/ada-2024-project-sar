@@ -1,5 +1,6 @@
 
 **Title:**
+ Left in the shadows: Women’s Fight for Their Share of the Spotlight
 
 **Abstract:**
 
