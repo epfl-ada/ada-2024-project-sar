@@ -27,7 +27,7 @@ We begin by analyzing the general position of women in cinema, focusing on trend
    Features include posters, backdrops, budget, revenue, release dates, languages, production countries and companies.
 
 4. **Film dialogue from The Pudding**:
-   This dataset contains the distribution of the script to the different actors of the movie.
+   This dataset contains the distribution of the script to the different actors of the movie. The dataset is used to compute the share of the script given to women actress and is available to download on this [github page](https://github.com/matthewfdaniels/scripts/)
 
 **Methods:**
 
