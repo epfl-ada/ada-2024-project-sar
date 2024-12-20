@@ -27,7 +27,7 @@ All results can be found on [this webpage](https://elsahtz2.github.io/SAR-ADA_we
 3. **TMDB movies metadata**
    This dataset contains information on 45,000 movies featured in the Full MovieLens dataset.
    Features include posters, backdrops, budget, revenue, release dates, languages, production countries and companies.
-   This dataset was obtained trought a Wikidata query as such (https://query.wikidata.org)
+   This dataset was obtained trought a Wikidata query using [this url](https://query.wikidata.org)
 
 4. **Film dialogue from The Pudding**:
    This dataset contains the distribution of the script to the different actors of the movie. The dataset is used to compute the share of the script given to women actress and is available to download on this [github page](https://github.com/matthewfdaniels/scripts/)
