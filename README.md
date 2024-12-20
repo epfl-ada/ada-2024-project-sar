@@ -6,6 +6,8 @@ Cinema has long reflected societal norms, yet gender representation remains a cr
 
 The study demonstrates that creating inclusive and successful films is possible, offering actionable recommendations such as diversifying female roles, enriching characters with emotional depth, and promoting leadership narratives. This framework proves that inclusivity and compelling storytelling can coexist, paving the way for more equitable cinema.
 
+All results can be found on [this webpage](https://elsahtz2.github.io/SAR-ADA_website/)
+
 **Research questions:**
 
 1. What is the current state of women's representation in the film industry? Has it evolved over the years?
