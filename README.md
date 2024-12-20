@@ -30,11 +30,12 @@ The study demonstrates that creating inclusive and successful films is possible,
    This dataset contains the distribution of the script to the different actors of the movie. The dataset is used to compute the share of the script given to women actress and is available to download on this [github page](https://github.com/matthewfdaniels/scripts/)
 
 **Organization within the team:**
-Elsa: Creation of website + creation inclusivity metric and analysis
-Mahdi: Decision tree-based models + research feature
-Maria: Synopsis analysis + High level analysis
-Alvaro: Bechdel analysis
-Myriam: Website design + Investigation of possible prediction
+
+- Elsa: Creation of website + creation inclusivity metric and analysis
+- Mahdi: Decision tree-based models + research feature
+- Maria: Synopsis analysis + High level analysis
+- Alvaro: Bechdel analysis
+- Myriam: Website design + Investigation of possible prediction
 
 ## Files organisation
 
